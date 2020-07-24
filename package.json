@@ -1,5 +1,5 @@
 {
-    "name": "react-use-audio-player",
+    "name": "react-use-audio-player-guru",
     "version": "0.0.19",
     "description": "React hook for building custom audio playback controls",
     "main": "dist/index.js",
